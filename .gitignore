@@ -10,7 +10,10 @@
 
 # production
 /build
-.env env
+
+# dotenv environment variables file
+.env
+.env.test
 
 # misc
 .DS_Store
