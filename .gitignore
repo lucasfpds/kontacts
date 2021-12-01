@@ -10,7 +10,7 @@
 
 # production
 /build
-
+build.zip
 # dotenv environment variables file
 .env
 .env.test

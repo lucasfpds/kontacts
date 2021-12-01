@@ -5,7 +5,7 @@ Html | Css | JavaScript | React <br><br>
 Single page em React utilizando hooks personalizados e próprios do React, Bibliotecas, requisições assíncronas com uso de token, API de contexto, roteamento de páginas, componentes estilizados e responsividade.
 </p>
 
-[Deploy](https://appkontacts.herokuapp.com/)<br>
+Acesse no [site](https://kontacts.ml/)<br>
 
 <h2>📷 Preview</h2>
 
